@@ -1,0 +1,32 @@
+{
+  "name": "Gizmo",
+  "is_cat": true,
+  "hobbies": [
+    "sleeping",
+    "playing"
+  ],
+  "age": 1,
+  "address": {
+    "work": null,
+    "home": [
+      "Boston",
+      "Massachusetts"
+    ]
+  },
+  "friends": [
+    {
+      "name": "Chupi",
+      "hobbies": [
+        "eating",
+        "hunting"
+      ]
+    },
+    {
+      "name": "Gatalita",
+      "hobbies": [
+        "eating",
+        "sleeping"
+      ]
+    }
+  ]
+}
